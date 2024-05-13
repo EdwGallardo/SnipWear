@@ -1,0 +1,4 @@
+NSCameraUsageDescription = "We need access to your camera so that you can take photos of the promotions that you upload to our app directly from here.";
+NSPhotoLibraryUsageDescription = "We need access to your photo library so you can browse your gallery and upload the photo you want.";
+NSLocationWhenInUseUsageDescription = "We need access to your location to be able to give you the promotions closest to you when the app is open.";
+PermissionGroupNotification = "We need access to your notifications to let you know when you're close to an offer you've told us you might be interested in.";
